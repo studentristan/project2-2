@@ -1,0 +1,46 @@
+div > #main {
+  width: 100%;
+}
+
+h1 {
+  font-family: garamond, georgia, serif;
+  font-size: 5rem;
+  text-align: center;
+}
+
+h1 span {
+  color: red;
+}
+
+h2, h3, p {
+	font-family: Helvetica, Arial, Lucida, sans-serif;
+	font-weight: 300;
+  margin-left: 21%;
+  margin-right: 21%;
+}
+
+h2, p {
+  font-size: 1.3rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+}
+
+#chick {
+  float: left;
+  size: 30%;
+  margin: 0 0 0 10%;
+}
+
+#dude {
+  float: right;
+  size: 30%;
+  margin: 0 10% 0 0;
+}
+
+#gunfight {
+  width: 100%;
+  height: auto;
+  margin: 0 0 1rem;
+}
